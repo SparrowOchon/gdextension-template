@@ -10,4 +10,5 @@
 
 
 ## Add to Godot
+- Video guide
 [![Godot Setup](https://cdn.conceptartempire.com/images/08/6123/00-featured-godot-logo.jpg)](https://thatonegamedev.com/wp-content/uploads/2023/03/godot4showcase.mp4)
